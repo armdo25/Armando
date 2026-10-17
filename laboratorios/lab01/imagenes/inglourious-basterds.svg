@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" role="img" aria-label="Diseño gráfico inspirado en INGLOURIOUS BASTERDS">
+<rect width="640" height="900" fill="#20352D"/>
+<rect x="22" y="22" width="596" height="856" fill="none" stroke="#EEECE2" stroke-opacity=".25" stroke-width="2"/>
+<path d="M48 265H590" stroke="#EEECE2" opacity=".50" stroke-width="2"/>
+<g><path d="M315 640L70 260 M315 640L550 250 M315 640L132 480 M315 640L498 472" stroke="#729081" stroke-width="4" opacity=".40"/><rect x="131" y="390" width="370" height="255" fill="#152920" opacity=".55"/><path d="M315 330L335 387L396 387L349 424L366 481L315 445L264 481L281 424L234 387L295 387Z" fill="#BD695E" opacity=".85"/></g>
+<rect x="0" y="0" width="640" height="280" fill="#20352D" opacity=".94"/>
+<text x="48" y="64" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#EEECE2" letter-spacing="5">UN FILME DE QUENTIN TARANTINO</text>
+<text x="48" y="155" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="67" font-weight="900" fill="#EEECE2" letter-spacing="-3"><tspan x="48" dy="0">INGLOURIOUS</tspan><tspan x="48" dy="68.34">BASTERDS</tspan></text>
+<path d="M48 763H590" stroke="#EEECE2" opacity=".6" stroke-width="2"/>
+<text x="48" y="805" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#EEECE2" letter-spacing="2">LA HISTORIA, REIMAGINADA</text>
+<text x="48" y="853" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="40" fill="#EEECE2">2009</text>
+<text x="591" y="855" font-family="Arial, Helvetica, sans-serif" text-anchor="end" font-size="17" fill="#EEECE2">LAB / 01</text>
+</svg>

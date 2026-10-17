@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" role="img" aria-label="Diseño gráfico inspirado en KILL BILL">
+<rect width="640" height="900" fill="#E0B441"/>
+<rect x="22" y="22" width="596" height="856" fill="none" stroke="#151912" stroke-opacity=".25" stroke-width="2"/>
+<path d="M48 265H590" stroke="#151912" opacity=".50" stroke-width="2"/>
+<g><path d="M155 700L465 307" stroke="#23271D" stroke-width="25"/><path d="M173 672L472 299" stroke="#FDFDF5" stroke-width="9"/><path d="M120 620L232 708" stroke="#171A14" stroke-width="16"/><circle cx="452" cy="319" r="82" stroke="#C96144" stroke-width="3" fill="none" opacity=".7"/></g>
+<rect x="0" y="0" width="640" height="280" fill="#E0B441" opacity=".94"/>
+<text x="48" y="64" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#151912" letter-spacing="5">UN FILME DE QUENTIN TARANTINO</text>
+<text x="48" y="155" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="83" font-weight="900" fill="#151912" letter-spacing="-3"><tspan x="48" dy="0">KILL</tspan><tspan x="48" dy="84.66">BILL</tspan></text>
+<path d="M48 763H590" stroke="#151912" opacity=".6" stroke-width="2"/>
+<text x="48" y="805" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#151912" letter-spacing="2">VENGANZA EN DOS VOLÚMENES</text>
+<text x="48" y="853" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="40" fill="#151912">2003</text>
+<text x="591" y="855" font-family="Arial, Helvetica, sans-serif" text-anchor="end" font-size="17" fill="#151912">LAB / 01</text>
+</svg>
